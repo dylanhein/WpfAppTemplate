@@ -1,2 +1,13 @@
 c:\Codebase\VS2013_WpfTemplate\VS2013_WpfTemplate\VS2013_WpfTemplate\bin\Debug\VS2013_WpfTemplate.exe.config
 C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\bin\Debug\VS2013_WpfTemplate.exe.config
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\obj\Debug\App.g.cs
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\obj\Debug\VS2013_WpfTemplate_MarkupCompile.cache
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\obj\Debug\VS2013_WpfTemplate.g.resources
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\obj\Debug\VS2013_WpfTemplate.Properties.Resources.resources
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\obj\Debug\VS2013_WpfTemplate.csproj.GenerateResource.Cache
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\bin\Debug\VS2013_WpfTemplate.exe
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\bin\Debug\VS2013_WpfTemplate.pdb
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\obj\Debug\MainWindow.baml
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\obj\Debug\MainWindow.g.cs
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\obj\Debug\VS2013_WpfTemplate.exe
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\obj\Debug\VS2013_WpfTemplate.pdb
