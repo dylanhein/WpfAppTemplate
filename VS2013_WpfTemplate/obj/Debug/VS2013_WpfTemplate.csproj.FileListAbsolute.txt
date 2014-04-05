@@ -1,0 +1,2 @@
+c:\Codebase\VS2013_WpfTemplate\VS2013_WpfTemplate\VS2013_WpfTemplate\bin\Debug\VS2013_WpfTemplate.exe.config
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\bin\Debug\VS2013_WpfTemplate.exe.config
