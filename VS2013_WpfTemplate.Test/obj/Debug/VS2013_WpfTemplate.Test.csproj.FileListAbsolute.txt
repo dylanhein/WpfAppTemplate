@@ -1,0 +1,5 @@
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate.Test\bin\Debug\VS2013_WpfTemplate.Test.dll
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate.Test\bin\Debug\VS2013_WpfTemplate.Test.pdb
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate.Test\obj\Debug\VS2013_WpfTemplate.Test.csprojResolveAssemblyReference.cache
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate.Test\obj\Debug\VS2013_WpfTemplate.Test.dll
+C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate.Test\obj\Debug\VS2013_WpfTemplate.Test.pdb
