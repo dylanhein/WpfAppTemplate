@@ -22,6 +22,7 @@ namespace VS2013_WpfTemplate
     {
         public MainWindow()
         {
+            DataContext = new MainWindowViewModel(this);
             InitializeComponent();
         }
     }

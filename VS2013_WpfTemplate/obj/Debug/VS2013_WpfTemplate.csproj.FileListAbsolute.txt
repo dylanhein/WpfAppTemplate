@@ -11,4 +11,3 @@ C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\obj\Debug\MainWindow.baml
 C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\obj\Debug\MainWindow.g.cs
 C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\obj\Debug\VS2013_WpfTemplate.exe
 C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\obj\Debug\VS2013_WpfTemplate.pdb
-C:\Codebase\WpfAppTemplate\VS2013_WpfTemplate\obj\Debug\VS2013_WpfTemplate.csprojResolveAssemblyReference.cache
