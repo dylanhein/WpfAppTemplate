@@ -6,6 +6,9 @@ namespace VS2013_WpfTemplate
         private MainWindow mainWindow;
 
         private string sampleText;
+        /// <summary>
+        /// Sample Text used to demonstrate binding.
+        /// </summary>
         public string SampleText {
             get {
                 return sampleText;

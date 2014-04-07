@@ -5,7 +5,8 @@
         Height="350" 
         Width="525"
         Background="LightSteelBlue">
-    <StackPanel>        
+    <StackPanel>       
+        <!--The below controls have been added to demonstrate functional data binding.-->
         <TextBox 
             Text="{Binding Path=SampleText, Mode=TwoWay, NotifyOnSourceUpdated=True, NotifyOnTargetUpdated=True, UpdateSourceTrigger=PropertyChanged}"
             Margin="10"
