@@ -8,7 +8,7 @@
     <StackPanel>       
         <!--The below controls have been added to demonstrate functional data binding.-->
         <TextBox 
-            Text="{Binding Path=SampleText, Mode=TwoWay, NotifyOnSourceUpdated=True, NotifyOnTargetUpdated=True, UpdateSourceTrigger=PropertyChanged}"
+            Text="{Binding Path=SampleText, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
             Margin="10"
             Width="250"
             Height="25">
