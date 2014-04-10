@@ -22,6 +22,10 @@ namespace VS2013_WpfTemplate
             }
         }
 
+        /// <summary>
+        /// Constructor that takes in the Main Window as a parameter.
+        /// </summary>
+        /// <param name="mainWindow"></param>
         public MainWindowViewModel(MainWindow mainWindow)
         {
             this.mainWindow = mainWindow;
