@@ -20,6 +20,9 @@ namespace VS2013_WpfTemplate
     /// </summary>
     public partial class MainWindow : Window
     {
+        /// <summary>
+        /// MainWindow default constructor.
+        /// </summary>
         public MainWindow()
         {
             InitializeComponent();

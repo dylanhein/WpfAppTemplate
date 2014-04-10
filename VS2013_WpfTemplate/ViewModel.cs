@@ -19,9 +19,15 @@ namespace VS2013_WpfTemplate
 
 
         #region PropertyChangedHelper
-
+        /// <summary>
+        /// The PropertyChanged event.
+        /// </summary>
         public event PropertyChangedEventHandler PropertyChanged;
 
+        /// <summary>
+        /// Raises the PropertyChanged event for the given property.
+        /// </summary>
+        /// <param name="property"></param>
         internal void RaisePropertyChanged(string property)
         {
             PropertyChangedEventHandler handler = PropertyChanged;
